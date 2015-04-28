@@ -1,0 +1,8 @@
+Template Method
+Abstract Factory
+Adapter Object
+
+done
+	Observer
+	Composite
+	Strategy
