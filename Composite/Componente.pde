@@ -1,4 +1,9 @@
-public interface Componente
+class Componente
 {
-	public void metodoComum();
+	int index;
+
+	public Componente(int i){this.index = i;}
+	
+	public void metodoComum()
+	{println("componente " + index);}
 }

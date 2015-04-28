@@ -15,5 +15,5 @@ public abstract class Observado
 	{observadores.add(o);}
 
 	public boolean delObservador(Observador o)
-	{observadores.remove(o);}
+	{return observadores.remove(o);}
 }
